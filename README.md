@@ -3,7 +3,8 @@
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+## REQUIPMENTS REQUIRED:
+
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
@@ -24,21 +25,23 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
-# STEP 1
+# STEP 1:
 Importing the libraries
-# STEP 2
+# STEP 2:
 Importing the dataset
-# STEP 3
+# STEP 3:
 Taking care of missing data
-# STEP 4
+# STEP 4:
 Encoding categorical data
-# STEP 5
+# STEP 5:
 Normalizing the data
-# STEP 6
+# STEP 6:
 Splitting the data into test and train
-# STEP 7
-
+# STEP 7:
+End the program
 ## PROGRAM:
+# DEVELOPED BY:CHANDRAMOHAN S
+# REGISTER NO:212221223002
 ```
 import pandas as pd
 
